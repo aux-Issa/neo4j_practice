@@ -14,7 +14,12 @@
 :constraints:
 - CONSTRAINT ON ( `neo4j::migrations::schemamigration`:`Neo4j::Migrations::SchemaMigration`
   ) ASSERT `neo4j::migrations::schemamigration`.migration_id IS UNIQUE
+- CONSTRAINT ON ( faculty:Faculty ) ASSERT faculty.uuid IS UNIQUE
 - CONSTRAINT ON ( univ:Univ ) ASSERT univ.uuid IS UNIQUE
+- CONSTRAINT ON ( 大学:大学 ) ASSERT 大学.code IS UNIQUE
+- CONSTRAINT ON ( 学部:学部 ) ASSERT 学部.code IS UNIQUE
 :indexes: []
 :versions:
 - '20210623035457'
+- '20210624050705'
+- '20210624050926'
