@@ -68,7 +68,8 @@ while i<=($univs_with_faculties.length - 1)
         if !Faculty.find_by(name: name)
           uni.faculties << Faculty.create(name: name)
         else
-          Faculty.find_by(name: name).univs <<  $univs_with_faculties[i]["大学"]
+          Faculty.find_by(name: name).univs << uni
+          #Faculty.find_by(name: name).univs << $univs_with_faculties[i]["大学"]
         end
       end
     end  
