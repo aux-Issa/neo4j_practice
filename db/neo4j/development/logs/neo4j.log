@@ -1,0 +1,27 @@
+2021-06-23 13:43:57.145+0000 INFO  ======== Neo4j 3.4.1 ========
+2021-06-23 13:43:57.176+0000 INFO  Starting...
+2021-06-23 13:43:59.026+0000 INFO  Bolt enabled on localhost:7472.
+2021-06-23 13:44:00.628+0000 INFO  Started.
+2021-06-23 13:44:01.345+0000 WARN  Low configured threads: (max={} - required={})={} < warnAt={} for {}
+2021-06-23 13:44:01.347+0000 INFO  Remote interface available at http://localhost:7474/
+2021-06-23 13:58:43.709+0000 INFO  Neo4j Server shutdown initiated by request
+2021-06-23 13:58:43.719+0000 INFO  Stopping...
+2021-06-23 13:58:43.748+0000 INFO  Stopped.
+2021-06-23 14:23:06.089+0000 INFO  ======== Neo4j 3.4.1 ========
+2021-06-23 14:23:06.130+0000 INFO  Starting...
+2021-06-23 14:23:07.786+0000 INFO  Bolt enabled on localhost:7472.
+2021-06-23 14:23:09.316+0000 INFO  Started.
+2021-06-23 14:23:10.019+0000 WARN  Low configured threads: (max={} - required={})={} < warnAt={} for {}
+2021-06-23 14:23:10.022+0000 INFO  Remote interface available at http://localhost:7474/
+2021-06-23 14:23:32.883+0000 INFO  Neo4j Server shutdown initiated by request
+2021-06-23 14:23:32.894+0000 INFO  Stopping...
+2021-06-23 14:23:32.922+0000 INFO  Stopped.
+2021-06-24 02:37:42.901+0000 INFO  ======== Neo4j 3.4.1 ========
+2021-06-24 02:37:42.927+0000 INFO  Starting...
+2021-06-24 02:37:44.311+0000 INFO  Bolt enabled on localhost:7472.
+2021-06-24 02:37:45.689+0000 INFO  Started.
+2021-06-24 02:37:46.390+0000 WARN  Low configured threads: (max={} - required={})={} < warnAt={} for {}
+2021-06-24 02:37:46.391+0000 INFO  Remote interface available at http://localhost:7474/
+2021-06-24 03:08:01.479+0000 INFO  Neo4j Server shutdown initiated by request
+2021-06-24 03:08:01.488+0000 INFO  Stopping...
+2021-06-24 03:08:01.517+0000 INFO  Stopped.
